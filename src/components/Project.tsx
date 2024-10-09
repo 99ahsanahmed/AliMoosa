@@ -4,7 +4,7 @@ const Project = () => {
     //MAIN PAGE
     <div
       id="project"
-      className="bg-gradient-to-tl from-black from-80% to-yellow-900/25 h-screen flex flex-wrap flex-col items-center justify-center relative "
+      className="bg-gradient-to-tl from-black from-75% to-yellow-950 h-screen flex flex-wrap flex-col items-center justify-center relative "
     >
       {/* PROJECTS HEADING */}
       <div className="Heading flex flex-col items-center xs:text-3xl md:text-6xl lg:text-5xl xl:text-9xl">

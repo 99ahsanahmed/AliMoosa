@@ -27,7 +27,7 @@ export default function Home() {
           {/* PICTURE */}
           <div className="">
             <Image
-              src="/pfp.png"
+              src="/pfpM.png"
               width={450}
               height={0}
               alt="Picture of the author"
